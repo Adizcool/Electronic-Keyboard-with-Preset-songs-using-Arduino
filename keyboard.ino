@@ -95,6 +95,8 @@
 /*preloaded songs as integer arrays. First element is the tempo
 followed by the notes and duration of that note*/
 
+//Names of songs defined in the names array below
+
 int melody1[] = 
 {
   100,
